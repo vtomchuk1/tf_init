@@ -2,7 +2,7 @@ variable "GOOGLE_PROJECT" {
   type        = string
   description = "ID вашого проєкту в Google Cloud Platform (GCP)"
   default     = "your-gcp-project-id" # Замініть на реальний ID вашого проєкту в GCP
-  
+
 }
 
 variable "GOOGLE_REGION" {

@@ -1,5 +1,6 @@
 # Local .terraform directories (contains provider binaries/modules)
 .terraform/
+.terraform*
 
 # .tfstate files (can contain secrets in plain text)
 *.tfstate
